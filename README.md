@@ -247,4 +247,4 @@ This repository serves as the official landing page for VPN Gate Client. The sof
 **Get the most recent version of VPN Gate Client today!**
 
 ---
-**Last updated:** 2026-10-11 19:49:34 UTC
+**Last updated:** 2026-10-11 23:20:28 UTC
